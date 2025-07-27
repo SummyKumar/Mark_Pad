@@ -19,5 +19,4 @@ A sleek, modern Markdown editor built with React, featuring live preview, syntax
 - Remark
 - Electron
 
-## 📁 Folder Structure
 
