@@ -1,6 +1,6 @@
 # ✨ Markdown Editor Tutorial
 
-A tutorial project for building a beautiful, modern Markdown editor from scratch.
+A  project for building a beautiful, modern Markdown editor from scratch.
 
 <!--## 📸 Screenshot
 
